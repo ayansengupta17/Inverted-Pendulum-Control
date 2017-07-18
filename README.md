@@ -7,4 +7,4 @@ This project is a part of the control and computing lab project for IIT Bombay. 
 
 ## Demo
 
-![Demo](https://media.giphy.com/media/2Wdrza5QSgRY4/giphy.gif)
+![Demo](https://github.com/ayansengupta17/Inverted-Pendulum-Control/blob/master/demo.gif)
