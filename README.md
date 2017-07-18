@@ -4,3 +4,7 @@ Design of a linear Quadratic Regulator balance controller for the Inverted Pendu
 ## Documentation
 
 This project is a part of the control and computing lab project for IIT Bombay. I have attached the relevant Chapter from our lab report. All the harware details, the mathematical model and the codes are explained in details in that report, so I am not explaining anything in this readme anymore. 
+
+## Demo
+
+![Demo](https://giphy.com/gifs/2Wdrza5QSgRY4)
