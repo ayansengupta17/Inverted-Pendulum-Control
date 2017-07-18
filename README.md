@@ -7,4 +7,4 @@ This project is a part of the control and computing lab project for IIT Bombay. 
 
 ## Demo
 
-![Demo](https://giphy.com/gifs/2Wdrza5QSgRY4)
+![Demo](https://media.giphy.com/media/2Wdrza5QSgRY4/giphy.gif)
